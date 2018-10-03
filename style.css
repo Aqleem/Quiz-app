@@ -1,0 +1,76 @@
+#img {
+    width: 120px;
+    height: 80px;
+    padding-bottom: 10px;
+}
+
+#navbar {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.bg-light {
+    background-color: #5BB06C!important;
+}
+
+.clock-img {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.the-img {
+    width: 240px;
+    height: 140px;
+}
+
+.the-input {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.the-button {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    /* width: 50%; */
+    /* margin-left: auto; */
+}
+
+.login-btn {
+    width: 50%;
+    border: solid;
+    background-color: #475993;
+    border-radius: 10px;
+    color: white;
+}
+
+#footer {
+    width: 100%;
+    height: 45px;
+    background-color: #5BB06C;
+}
+
+.fixed-bottom {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.the-create {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 5px;
+    padding: 4px;
+}
+
+.the-footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 5px;
+}
